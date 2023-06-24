@@ -1,0 +1,23 @@
+apiSion
+  /.git
+  /env
+  /app
+    /main.py
+    /__init__.py   
+    /api  
+      /__init__.py
+      /routes.py  
+    /core
+      /__init__.py
+      /database.py  
+      /security.py  
+      /dependencies.py  
+    /crud  
+      /__init__.py
+      /crud.py  
+    /models
+      /__init__.py
+      /models.py
+    /schemas
+      /__init__.py
+      /schemas.py 
