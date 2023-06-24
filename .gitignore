@@ -1,0 +1,17 @@
+# Ignora el archivo de entorno
+.env
+
+# Ignora todos los archivos .pyc
+*.pyc
+
+# Ignora todos los directorios __pycache__
+__pycache__
+
+# Ignora los archivos de logs
+*.log
+
+# Ignora los directorios .pytest_cache que crea pytest
+.pytest_cache/
+
+# Si estás utilizando un entorno virtual, también querrás ignorarlo
+venv/
